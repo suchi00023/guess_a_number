@@ -22,3 +22,4 @@ while(b!=a)
        {
            console.log("to high");
    }
+}
